@@ -1,0 +1,210 @@
+{
+    "count": 20,
+    "urls": {
+        "self": "/articles",
+        "next": "/articles",
+        "prev": "/articles"
+    },
+    "articles": [
+        {
+            "id": "e3ba2a15a8a99a922ad5ba5647500b5e85cb40a3",
+            "url": "https://askubuntu.com/questions/1246704/apple-spi-touchpad-not-recognized-in-input-devices",
+            "title": "Apple SPI Touchpad not recognized in input devices",
+            "text": "I'm running Ubuntu 20.04 LTS on a 2019 Macbook pro and the touchpad occasionally stops working after sleep or shutdown/restart. Updating software and restarting sometimes fixes the issue but not always. When it does work I see the following from:\n\nless /proc/\u2026",
+            "publisher": "Askubuntu.com",
+            "author": "rkernbob",
+            "image": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+            "date": "2020-06-04T03:12:22Z"
+        },
+        {
+            "id": "f6648ad2e564c13417b6b1b4246d4a9a1bfa6f8f",
+            "url": "http://www.iphonehacks.com/2020/06/internal-ios-13-5-5-code-indicates-apple-bundle-subscription-services.html",
+            "title": "Internal iOS 13.5.5 Code Indicates \u2018Apple Bundle\u2019 for Subscription Services in the Works",
+            "text": "Apple released the first developer beta of iOS 13.5.5 to the public earlier this year. The developer beta did not bring any major changes or improvements. However, the internal code found in iOS 13.5.5 makes references to an \u201cApple bundle\u201d i.e. a subscription\u2026",
+            "publisher": "iphonehacks.com",
+            "author": "Rajesh Pandey",
+            "image": "http://www.iphonehacks.com/wp-content/uploads/2020/02/Apple-App-Store-Subscriptions-Renewal-Email-Opt-Out-Toggle.jpg",
+            "date": "2020-06-04T02:57:12Z"
+        },
+        {
+            "id": "b036fe64ee33682a18d5a0eee2bfc41b31a26822",
+            "url": "https://www.imore.com/code-ios-1355-shows-apple-working-services-bundle",
+            "title": "Code in iOS 13.5.5 shows Apple is working on a services bundle",
+            "text": "Apple continues to slowly push towards a services bundle.\n\nWhat you need to know\n\n\nApple is still working on a services bundle.\nCode found within iOS 13.5.5 makes reference to such an offering.\nApple has been rumored to be working on a bundle for years.\n\n\nApp\u2026",
+            "publisher": "iMore",
+            "author": "Joe Wituschek",
+            "image": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/06/hardware-software-services.jpg?itok=YcL9Je4Z",
+            "date": "2020-06-04T02:49:13Z"
+        },
+        {
+            "id": "2291ea28616ca0c697c443cc1ba5e7582cd0f5b7",
+            "url": "https://9to5mac.com/2020/06/03/apple-hires-amazon-video-executive-james-delorenzo-to-lead-sports-division-on-apple-tv/",
+            "title": "Apple hires Amazon Video executive James DeLorenzo to lead sports division on Apple TV",
+            "text": "Apple continues to hire professionals to improve its TV service. The company has now hired executive James DeLorenzo, who has led Amazon Video\u2019s sports division since 2016. He was also Senior Vice President of Audible, Inc., an Amazon company focused on audio\u2026",
+            "publisher": "9to5Mac",
+            "author": "Filipe Esp\u00f3sito",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/apple-tv-home-screen-trailers.jpg?quality=82&strip=all",
+            "date": "2020-06-04T02:33:51Z"
+        },
+        {
+            "id": "5b9a3c7c8d7616fdebe2b7b1e4b234eabb28350c",
+            "url": "https://www.scmp.com/tech/enterprises/article/3087477/apple-must-face-us-shareholder-lawsuit-over-ceos-iphone-china",
+            "title": "Apple must face US shareholder lawsuit over CEO\u2019s iPhone, China comments, judge rules",
+            "text": "A federal judge said Apple must face part of a lawsuit claiming it fraudulently concealed falling demand for iPhones, especially in China, leading to tens of billions of dollars in shareholder losses.While dismissing most claims, US District Judge Yvonne Gonz\u2026",
+            "publisher": "Post Magazine",
+            "author": "Reuters, Reuters",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/04/8bccf296-a609-11ea-8ea0-d7434be00753_image_hires_102414.jpg?itok=KnPgXazw&v=1591237465",
+            "date": "2020-06-04T02:24:28Z"
+        },
+        {
+            "id": "95f8c3f7df78a8a07b87d23b4597f4fe4c93c451",
+            "url": "https://www.imore.com/analyst-sub-250-apple-watch-certain-features-would-grow-sales-10x",
+            "title": "Analyst: Sub-$250 Apple Watch with certain features would grow sales 10X",
+            "text": "Apple Watch could grow sales by 10X with certain features and a certain price point.\n\nWhat you need to know\n\n\nApple Watch could grow sales 10X with certain features and price points.\nBernstein analyst Toni Sacconaghi stressed a sub-$250 price point with more \u2026",
+            "publisher": "iMore",
+            "author": "Joe Wituschek",
+            "image": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/07/walkie-talkie-apple-watch-hero.jpg?itok=btTfrGmL",
+            "date": "2020-06-04T02:23:17Z"
+        },
+        {
+            "id": "3790751cfa973f6183425736ed35d37363bd2c53",
+            "url": "https://www.ozbargain.com.au/node/542389",
+            "title": "Kellogg's Breakfast Biscuits Apricot/Apple Date 200g $2.25 (Was $5) + Delivery (0 with Prime/ $39 Spend) @ Amazon AU",
+            "text": "Reminder to cancel subscribe and save Kellogg's Breakfast Biscuit Apple Date Gluten Free Kellogg's Breakfast Biscuit Apricot, Fig & Raisin Gluten Free Also half price at Coles for \u2026",
+            "publisher": "Ozbargain.com.au",
+            "author": "Dnst",
+            "image": "https://files.ozbargain.com.au/n/89/542389l.jpg?h=a8f21cae",
+            "date": "2020-06-04T02:21:28Z"
+        },
+        {
+            "id": "cf5d0cb760c67f233b580ac8503e0f01c3042ae0",
+            "url": "https://www.techmeme.com/200603/p26",
+            "title": "iOS 13.5.5 beta code hints that Apple still plans to introduce a service bundle that includes Apple Music, Apple TV+, and more in a single subscription (Filipe Esp\u00f3sito/9to5Mac)",
+            "text": "Filipe Esp\u00f3sito / 9to5Mac:\niOS 13.5.5 beta code hints that Apple still plans to introduce a service bundle that includes Apple Music, Apple TV+, and more in a single subscription\u00a0 \u2014\u00a0 Apple is rumored to introduce a service bundle that includes Apple Music, Ap\u2026",
+            "publisher": "Techmeme.com",
+            "author": "",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2019/11/services-bundle-apple.jpg?resize=1024,512",
+            "date": "2020-06-04T01:55:01Z"
+        },
+        {
+            "id": "776b427fc0abb527cd2b6a8f6b07408f850308e4",
+            "url": "https://www.techtimes.com/articles/250083/20200603/apple-confirms-anti-theft-measures-in-looted-iphones-tim-cook-responds-to-george-floyds-death.htm",
+            "title": "Apple Confirms Anti-theft Measures in Looted iPhones; Tim Cook Responds to George Floyd's Death",
+            "text": "Creating anti-theft measures after looting transpired last week is not Apple's only focus right now.",
+            "publisher": "Tech Times",
+            "author": "CJ Robles",
+            "image": "https://1734811051.rsc.cdn77.org/data/images/full/366593/aftermath-of-protests-against-the-death-in-minneapolis-police-custody-of-george-floyd-in-new-york-city.jpg",
+            "date": "2020-06-04T01:48:24Z"
+        },
+        {
+            "id": "f5a5a30216a5eeab0ed84fe9984d6042e5123ba3",
+            "url": "https://9to5mac.com/2020/06/03/classical-music-app-concertino-for-apple-music-now-available-for-ios/",
+            "title": "Classical music app \u2018Concertino\u2019 for Apple Music now available for iOS",
+            "text": "We have already covered Concertino here on 9to5Mac, which is an app focused on transforming \u201cApple Music into a magical classical music jukebox.\u201d Previously available only as a web app, Concertino is now available for iOS on the App Store.\n more\u2026\nThe post Cla\u2026",
+            "publisher": "9to5Mac",
+            "author": "Filipe Esp\u00f3sito",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2020/06/Concertino-app-iOS.png",
+            "date": "2020-06-04T01:38:23Z"
+        },
+        {
+            "id": "cc7cef5ced7369adec47ec8136903a7ecae7c82d",
+            "url": "https://www.independent.ie/world-news/north-america/big-apple-shaken-to-its-core-by-the-frantic-shift-from-pause-to-protest-39258902.html",
+            "title": "Big Apple shaken to its core by the frantic shift from pause to protest",
+            "text": "At 8.02PM on Tuesday in New York City, two minutes after the citywide curfew went into effect, several men in red berets and varsity jackets lined the streets.",
+            "publisher": "Independent.ie",
+            "author": "Freya Drohan",
+            "image": "https://www.independent.ie/incoming/e0362/39258589.ece/AUTOCROP/w1240h700/-NEW-YORK-77.jpg",
+            "date": "2020-06-04T01:30:00Z"
+        },
+        {
+            "id": "af829e4ebae7f98b584f3a3e97c79eebd8205f09",
+            "url": "https://nationalcybersecurity.com/apple-macos-10-15-5-release-macbooks-surprising-problem-iphone-ios-cybersecurity-informationsecurity/",
+            "title": "| Apple MacOS 10.15.5 Release: MacBook\u2019s Surprising Problem | #iphone | #ios | #cybersecurity | #informationsecurity",
+            "text": "Last week saw Apple release MacOS Catalina version 10.15.5; a surprising move so close to the Virtual WWDC later this month and the expected announcement of MacOS 10.16. Nevertheless Tim Cook and his team pushed out the update with a number of security update\u2026",
+            "publisher": "Nationalcybersecurity.com",
+            "author": "",
+            "image": "",
+            "date": "2020-06-04T01:29:00Z"
+        },
+        {
+            "id": "963c2dcd395ed771791fef4acb058230ed15d293",
+            "url": "https://www.forbes.com/sites/ewanspence/2020/06/03/apple-macos-10155-supplemental-release-kernel-security-rushed-update-macbook-macbook-pro-macbook-air/",
+            "title": "Apple MacOS 10.15.5 Release: MacBook\u2019s Surprising Problem",
+            "text": "Apple has rushed out a MacOS security update following the 10.15.5 update to Catalina.",
+            "publisher": "Forbes",
+            "author": "Ewan Spence, Senior Contributor, Ewan Spence, Senior Contributorhttps://www.forbes.com/sites/ewanspence/",
+            "image": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dc76b33ea103f0006521877%2F0x0.jpg",
+            "date": "2020-06-04T00:55:16Z"
+        },
+        {
+            "id": "29a82f4dbab4d183668ab0289e8215b861260b63",
+            "url": "https://osxdaily.com/2020/06/03/real-time-lyrics-apple-music-mac/",
+            "title": "How to Follow Along With Real-Time Lyrics in Apple Music on Mac",
+            "text": "Listening to music can be one of the most fun, enjoyable, therapeutic things we can do. But it can be frustrating if you\u2019re forgetting the words to your favorite song, or you haven\u2019t quite mastered the lyrics yet. Fortunately the Apple\u2019s Music app has long of\u2026",
+            "publisher": "Osxdaily.com",
+            "author": "Oliver Haslam",
+            "image": "https://cdn.osxdaily.com/wp-content/uploads/2020/03/music-app-lyrics-header.jpg",
+            "date": "2020-06-04T00:40:49Z"
+        },
+        {
+            "id": "dd0a11c749be0d43fc503234611adfcdc2a19d14",
+            "url": "https://www.dailymail.co.uk/femail/article-8385951/Massive-EOFY-sale-launches-Kogan-prices-slashed-Apple-high-end-items-TVs-laptops.html",
+            "title": "Massive EOFY sale launches on Kogan - with prices slashed on Apple, high-end items, TVs and laptops",
+            "text": "Australian online retailer Kogan has launched a massive end of financial year sale, with prices slashed\u00a0by up to 69 per cent across Apple gadgets,  high-end sneakers, TVs and laptops.",
+            "publisher": "Daily Mail",
+            "author": "By Cindy Tran for Daily Mail Australia",
+            "image": "https://i.dailymail.co.uk/1s/2020/06/04/01/29197496-0-image-a-3_1591229005881.jpg",
+            "date": "2020-06-04T00:29:17Z"
+        },
+        {
+            "id": "641dffdd1755b8a34d5cd40e07db185095f7083b",
+            "url": "https://www.ubergizmo.com/2020/06/apple-brick-track-looted-iphones/",
+            "title": "Apple Is Bricking And Tracking iPhones Looted From Its Stores",
+            "text": "As many of you are undoubtedly aware by now, there are protests going on in the US. These protests were intended to be peaceful, but unfortunately, there have been some who have taken the opportunity to loot stores, including Apple stores, stealing a bunch of\u2026",
+            "publisher": "Ubergizmo",
+            "author": "Tyler Lee",
+            "image": "https://i2.wp.com/www.ubergizmo.com/wp-content/uploads/2019/09/iphone-11-pro-camera-review_hero.jpg?fit=1500%2C1000&ssl=1",
+            "date": "2020-06-04T00:25:39Z"
+        },
+        {
+            "id": "773410cced0ee4e181ab8b296940fe332ad2ab33",
+            "url": "https://appleinsider.com/articles/20/06/04/apple-still-mulling-services-bundle-ios-1355-code-suggests",
+            "title": "Apple still mulling services bundle, iOS 13.5.5 code suggests",
+            "text": "Code discovered in the latest iOS 13.5.5 release suggests Apple is mulling a bundling of its core for-pay services, Apple Music, Apple News+ and Apple TV+, according to a report on Wednesday.",
+            "publisher": "AppleInsider",
+            "author": "news@appleinsider.com (Mikey Campbell)",
+            "image": "https://photos5.appleinsider.com/gallery/36083-66776-200602-AppleTV-xl.jpg",
+            "date": "2020-06-04T00:20:28Z"
+        },
+        {
+            "id": "7a94e253152b98d7d044f287e76fe35e175e0857",
+            "url": "https://www.mactrast.com/2020/06/apple-seeds-first-beta-of-watchos-6-2-8-to-developers/",
+            "title": "Apple Seeds First Beta of watchOS 6.2.8 to Developers",
+            "text": "Apple on Wednesday released the initial beta of watchOS 6.2.8 to developers for testing.Read More...",
+            "publisher": "Mactrast.com",
+            "author": "Chris Hauk",
+            "image": "https://s4827.pcdn.co/wp-content/uploads/2020/01/Apple_Watch_Series_5_Exercise.jpg",
+            "date": "2020-06-04T00:18:06Z"
+        },
+        {
+            "id": "d8769d411402f51fcb31122641432416ddd566de",
+            "url": "https://www.mactrast.com/2020/06/apple-seeds-first-beta-of-tvos-13-4-8-to-developers/",
+            "title": "Apple Seeds First Beta of tvOS 13.4.8 to Developers",
+            "text": "Apple has released the first beta of tvOS 13.4.8 to developers for testing.Read More...",
+            "publisher": "Mactrast.com",
+            "author": "Chris Hauk",
+            "image": "https://s4827.pcdn.co/wp-content/uploads/2020/04/apple_tv.jpg",
+            "date": "2020-06-04T00:11:25Z"
+        },
+        {
+            "id": "300532ff55e15eb4188323fb99712b7a2a2e249d",
+            "url": "https://www.phonearena.com/news/11-inch-ipad-air-could-sport-usb-c-port_id125083",
+            "title": "2021 Apple iPad Air could be equipped with an 11-inch screen, Face ID and a Type-C port",
+            "text": "In March, Apple introduced two new iPad Pro tablets essentially refreshing the and models released in 2018. The new premium slates are powered by the A12Z Bionic chipset which is practically the same as the A12X Bionic SoC used in the two-year-old models. Bot\u2026",
+            "publisher": "PhoneArena",
+            "author": "Alan Friedman",
+            "image": "https://i-cdn.phonearena.com/images/article/125083-two/2021-Apple-iPad-Air-could-be-equipped-with-an-11-inch-screen-Face-ID-and-a-Type-C-port.jpg",
+            "date": "2020-06-04T00:07:00Z"
+        }
+    ]
+}
