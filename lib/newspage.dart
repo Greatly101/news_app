@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
-//import 'dart:io';
-//import 'dart:async';
+import 'apple.dart';
 
 class NewsAppPage extends StatefulWidget {
   @override
@@ -20,20 +19,26 @@ class _NewsAppPageState extends State<NewsAppPage> {
         body: Center(
           child: FutureBuilder(
             future:
-                DefaultAssetBundle.of(context).loadString('assets/Apple.json'),
+                DefaultAssetBundle.of(context).loadString("assets/Apple.json"),
             builder: (context, snapshot) {
+              if (snapshot.connectionState == ConnectionState.done) {
+                if (snapshot.hasData) {
+                  //print(snapshot.data['title']);
+                  print(snapshot.data.toString());
+                }
+              }
               if (!snapshot.hasData) {
                 return CircularProgressIndicator();
               }
               final articles = jsonDecode(snapshot.data.toString());
-              print(articles);
+              // print(articles);
 
               return ListView.builder(
                 itemBuilder: (context, index) {
                   return Card(
                     child: ListTile(
-                      title: articles['title'],
-                      subtitle: articles['publisher'],
+                      title: Text(articles[index]['title']),
+                      subtitle: Text(articles[index]['publisher']),
                       //title: Text(('news')),
                       //subtitle: Text('newsnews'),
 
@@ -42,7 +47,7 @@ class _NewsAppPageState extends State<NewsAppPage> {
                     ),
                   );
                 },
-                itemCount: 20,
+                itemCount: articles.length,
               );
             },
           ),
