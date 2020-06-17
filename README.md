@@ -1,6 +1,6 @@
 # newsapp
 
-A new Flutter application.
+A flutter news app. It displays a list of news item on which users can tap to navigate to news details page.
 
 ## Getting Started
 
